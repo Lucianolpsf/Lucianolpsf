@@ -2,8 +2,8 @@
 
 <div align="left">
   <a href="https://github.com/lucianolpsf">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucianolpsf&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div></a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucianolpsf&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/></a>
+</div>
     
 Uma pessoa que nunca cometeu um erro, nunca tentou nada de novo.
 
