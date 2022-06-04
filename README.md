@@ -1,4 +1,4 @@
-<h1 align="center">Oi Tudo bem? Eu sou o Lucaino Lopes 🙋‍♂️</h1>
+<h1 align="center">Olá, tudo bem? Eu sou o Luciano Lopes 🙋‍♂️</h1>
 <div align="center">
   <a href="https://github.com/lucianolpsf">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucianolpsf&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/></a>
