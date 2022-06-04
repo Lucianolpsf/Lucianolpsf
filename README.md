@@ -1,14 +1,11 @@
 ### Olá! Eu sou o Luciano Lopes 🙋‍♂️
 
-<div align="left">
+<div align="center">
   <a href="https://github.com/lucianolpsf">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucianolpsf&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/></a>
 </div>
     
-Uma pessoa que nunca cometeu um erro, nunca tentou nada de novo.
-
--Albert Einstein
-<div>
+<div align="center">
     <a href="https://facebook.com/lucianolpsf" target="_blank">
         <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"/><a/>
     <a href="https://instagram.com/lucianolpsf" target="_blank">
