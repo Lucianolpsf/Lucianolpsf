@@ -1,13 +1,18 @@
 <h1 align="center">Olá, tudo bem? Eu sou o Luciano Lopes 🙋‍♂️</h1>
 <div align="center">
   <a href="https://github.com/lucianolpsf">
-  <img align="center" alt="html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg">
-  <img align="center" alt="css" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg">
-  <img align="center" alt="mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
-  <img align="center" alt="linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
-  <img align="center" alt="git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+      <img align="center" alt="html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg"><a/>
+  <a href="https://github.com/lucianolpsf">
+      <img align="center" alt="css" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg"><a/>
+  <a href="https://github.com/lucianolpsf">
+      <img align="center" alt="mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"><a/>
+  <a href="https://github.com/lucianolpsf">
+      <img align="center" alt="linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"><a/>
+  <a href="https://github.com/lucianolpsf">    
+      <img align="center" alt="git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"><a/>
   <!--<img align="center" alt="github" height="35" width="35" src="/assets/GitHub.png"> -->
-  <img align="center" alt="github" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"><a/>
+  <a href="https://github.com/lucianolpsf">    
+      <img align="center" alt="github" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"><a/>
   
 </div><br>
 <div align="center">
