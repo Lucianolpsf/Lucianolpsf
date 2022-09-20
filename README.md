@@ -1,4 +1,4 @@
-<h1 align="center">Olá, tudo bem? Eu sou o Luciano Lopes 🙋‍♂️</h1>
+<h1 align="center">Olá, tudo bem? Sejá bem vindo!</h1>
 <div align="center">
   <a href="https://github.com/lucianolpsf">
       <img align="center" alt="html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg"><a/>
