@@ -25,7 +25,7 @@
         <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"/><a/>
     <a href="https://instagram.com/lucianolpsf" target="_blank">
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"/><a/>
-    <a href="https://youtube.com/channel/UCNgh9QnAuJf-LHBSqAUpS6g" target="_blank">
+    <a href="[https://youtube.com/channel/UCNgh9QnAuJf-LHBSqAUpS6g](https://www.youtube.com/@proletariadovencedor)" target="_blank">
         <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"/><a/>
     <a href="https://www.linkedin.com/in/luciano-lopes/" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/><a/>
