@@ -1,20 +1,35 @@
-<h1 align="center">Olá, tudo bem? Sejá bem vindo!</h1>
 <div align="center">
-  <a href="https://github.com/lucianolpsf">
+<a href="https://github.com/lucianolpsf">
       <img align="center" alt="html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg"><a/>
-  <a href="https://github.com/lucianolpsf">
+ <a href="https://github.com/lucianolpsf">
       <img align="center" alt="css" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg"><a/>
-  <a href="https://github.com/lucianolpsf">
+ 
+ <a href="https://github.com/lucianolpsf">
+      <img align="center" alt="javascript" height="30" width="40" src="https://lucianolpsf.github.io/portfolio/assets/img/icons/Javascript.png"><a/>  
+   
+ <a href="https://github.com/lucianolpsf">
+      <img align="center" alt="bootstrap" height="30" width="40" src="https://lucianolpsf.github.io/portfolio/assets/img/icons/Bootstrap.png"><a/>  
+    
+<a href="https://github.com/lucianolpsf">
       <img align="center" alt="mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"><a/>
-  <a href="https://github.com/lucianolpsf">
-      <img align="center" alt="linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"><a/>
-  <a href="https://github.com/lucianolpsf">    
+
+<a href="https://github.com/lucianolpsf">
+    <img align="center" alt="mariaDB" height="30" width="40" src="https://lucianolpsf.github.io/portfolio/assets/img/icons/MariaDB.png"><a/>
+  
+ <a href="https://github.com/lucianolpsf">
+    <img align="center" alt="sql server" height="30" width="40" src="https://lucianolpsf.github.io/portfolio/assets/img/icons/SQL%20Server.png"><a/>
+    
+<a href="https://github.com/lucianolpsf">
+    <img align="center" alt="linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"><a/>
+  
+<a href="https://github.com/lucianolpsf">    
       <img align="center" alt="git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"><a/>
   <!--<img align="center" alt="github" height="35" width="35" src="/assets/GitHub.png"> -->
-  <a href="https://github.com/lucianolpsf">    
+ <a href="https://github.com/lucianolpsf">    
       <img align="center" alt="github" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"><a/>
   
-</div><br>
+</div>
+<br>
 <div align="center">
   <a href="https://github.com/lucianolpsf">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucianolpsf&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/></a>
