@@ -33,6 +33,9 @@
 <div align="center">
   <a href="https://github.com/lucianolpsf">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucianolpsf&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/></a>
+      
+  <a href="https://github.com/lucianolpsf">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucianolpsf&size_weight=0.5&count_weight=0.5&theme=dracula"/></a>  
 </div>
     
 <div align="center">
@@ -45,5 +48,5 @@
     <a href="https://www.linkedin.com/in/luciano-lopes/" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/><a/>
 </div>
-<div align="center">  
-</div>
+  
+          
