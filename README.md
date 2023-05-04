@@ -30,14 +30,16 @@
   
 </div>
 <br>
-<div align="center">
+<br>
+  <div align="center">
   <a href="https://github.com/lucianolpsf">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucianolpsf&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/></a>
       
   <a href="https://github.com/lucianolpsf">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucianolpsf&layout=compact&size_weight=0.5&count_weight=0.5&theme=dracula"/></a>  
 </div>
-    
+<br>
+<br>
 <div align="center">
     <a href="https://facebook.com/lucianolpsf" target="_blank">
         <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"/><a/>
