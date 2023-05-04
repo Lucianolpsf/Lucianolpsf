@@ -1,4 +1,7 @@
 <div align="center">
+
+ # Bem vindo!
+
 <a href="https://github.com/lucianolpsf">
       <img align="center" alt="html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg"><a/>
  <a href="https://github.com/lucianolpsf">
@@ -22,6 +25,8 @@
 <a href="https://github.com/lucianolpsf">
     <img align="center" alt="linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"><a/>
   
+
+
 <a href="https://github.com/lucianolpsf">    
       <img align="center" alt="git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"><a/>
   <!--<img align="center" alt="github" height="35" width="35" src="/assets/GitHub.png"> -->
@@ -50,5 +55,9 @@
     <a href="https://www.linkedin.com/in/luciano-lopes/" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/><a/>
 </div>
-  
-          
+<br>
+<div align="center">
+
+## [Visete meu portfolio](https://lucianolpsf.github.io/portfolio/)
+
+</div>
