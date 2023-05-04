@@ -58,6 +58,6 @@
 <br>
 <div align="center">
 
-## [Visete meu portfolio](https://lucianolpsf.github.io/portfolio/)
+## [Visite meu portfolio](https://lucianolpsf.github.io/portfolio/)
 
 </div>
