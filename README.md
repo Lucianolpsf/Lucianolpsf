@@ -5,10 +5,10 @@
 <a href="https://github.com/lucianolpsf">
       <img align="center" alt="html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg"><a/>
  <a href="https://github.com/lucianolpsf">
-      <img align="center" alt="css" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg"><a/>
+      <img align="center" alt="css" height="32" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg"><a/>
  
  <a href="https://github.com/lucianolpsf">
-      <img align="center" alt="javascript" height="30" width="40" src="https://lucianolpsf.github.io/portfolio/assets/img/icons/Javascript.png"><a/>  
+      <img align="center" alt="javascript" height="27" width="30" src="https://lucianolpsf.github.io/portfolio/assets/img/icons/Javascript.png"><a/>  
    
  <a href="https://github.com/lucianolpsf">
       <img align="center" alt="bootstrap" height="30" width="40" src="https://lucianolpsf.github.io/portfolio/assets/img/icons/Bootstrap.png"><a/>  
@@ -25,13 +25,14 @@
 <a href="https://github.com/lucianolpsf">
     <img align="center" alt="linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"><a/>
   
-
-
 <a href="https://github.com/lucianolpsf">    
       <img align="center" alt="git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"><a/>
   <!--<img align="center" alt="github" height="35" width="35" src="/assets/GitHub.png"> -->
  <a href="https://github.com/lucianolpsf">    
-      <img align="center" alt="github" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"><a/>
+      <img align="center" alt="github" height="40" width="40" src="https://img.icons8.com/?size=512&id=bVGqATNwfhYq&format=png"><a/>
+ 
+  <a href="https://github.com/lucianolpsf">    
+      <img align="center" alt="trello" height="40" width="40" src="https://img.icons8.com/?size=512&id=21049&format=png"><a/>
   
 </div>
 <br>
