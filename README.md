@@ -2,7 +2,7 @@
 
 <br>
 
-Pessoal que veio atrás do respositorio do youtube, você encontrará os escriptas usados [AQUI](https://github.com/Lucianolpsf/youtube_projects)
+Pessoal que veio atrás do respositorio do youtube, você encontrará os escripts usados [AQUI](https://github.com/Lucianolpsf/youtube_projects)
 
 <div style="display: inline_block"><br>
     <img align="center" alt="html" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg">
