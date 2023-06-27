@@ -5,16 +5,16 @@
 Pessoal que veio atrás do respositorio do youtube, você encontrará os scripts usados [AQUI](https://github.com/Lucianolpsf/youtube_projects)
 
 <div style="display: inline_block"><br>
-    <img align="center" alt="html" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg">
-    <img align="center" alt="css" height="42" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg">
-    <img align="center" alt="javascript" height="34" width="40" src="https://lucianolpsf.github.io/portfolio/assets/img/icons/Javascript.png">
+    <img align="center" alt="html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+    <img align="center" alt="css" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+    <img align="center" alt="javascript" height="34" width="34" src="https://lucianolpsf.github.io/portfolio/assets/img/icons/Javascript.png">
     <img align="center" alt="bootstrap" height="40" width="40" src="https://lucianolpsf.github.io/portfolio/assets/img/icons/Bootstrap.png">
     <img align="center" alt="mysql" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
     <img align="center" alt="mariaDB" height="40" width="40" src="https://lucianolpsf.github.io/portfolio/assets/img/icons/MariaDB.png">
     <img align="center" alt="sql server" height="40" width="40" src="https://lucianolpsf.github.io/portfolio/assets/img/icons/SQL%20Server.png">
-    <img align="center" alt="linux" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
-    <img align="center" alt="git" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-    <img align="center" alt="github" height="40" width="40" src="https://img.icons8.com/?size=512&id=bVGqATNwfhYq&format=png">
+    <img align="center" alt="linux" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
+    <img align="center" alt="git" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+    <img align="center" alt="github" height="30" width="30" src="https://img.icons8.com/?size=512&id=bVGqATNwfhYq&format=png">
     <img align="center" alt="trello" height="40" width="40" src="https://img.icons8.com/?size=512&id=21049&format=png">
 </div>
 
