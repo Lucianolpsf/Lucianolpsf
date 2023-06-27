@@ -14,7 +14,7 @@ Pessoal que veio atrás do respositorio do youtube, você encontrará os scripts
     <img align="center" alt="sql server" height="40" width="40" src="https://lucianolpsf.github.io/portfolio/assets/img/icons/SQL%20Server.png">
     <img align="center" alt="linux" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
     <img align="center" alt="git" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-    <img align="center" alt="github" height="30" width="30" src="https://img.icons8.com/?size=512&id=bVGqATNwfhYq&format=png">
+    <img align="center" alt="github" height="40" width="40" src="https://img.icons8.com/?size=512&id=bVGqATNwfhYq&format=png">
     <img align="center" alt="trello" height="40" width="40" src="https://img.icons8.com/?size=512&id=21049&format=png">
 </div>
 
