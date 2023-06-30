@@ -9,7 +9,7 @@ Pessoal que veio atrás do respositorio do youtube, você encontrará os scripts
     <img align="center" alt="css" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
     <img align="center" alt="javascript" height="34" width="34" src="https://lucianolpsf.github.io/portfolio/assets/img/icons/Javascript.png">
     <img align="center" alt="bootstrap" height="40" width="40" src="https://lucianolpsf.github.io/portfolio/assets/img/icons/Bootstrap.png">
-    <img align="center" alt="mysql" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
+    <img align="center" alt="mysql" height="52" width="52" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
     <img align="center" alt="mariaDB" height="40" width="40" src="https://lucianolpsf.github.io/portfolio/assets/img/icons/MariaDB.png">
     <img align="center" alt="sql server" height="40" width="40" src="https://lucianolpsf.github.io/portfolio/assets/img/icons/SQL%20Server.png">
     <img align="center" alt="linux" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
