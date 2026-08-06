@@ -1,7 +1,4 @@
-## Oiii eu sou o Luciano Lopes, criador de conteúdo de programação e tecnologia!
-
-<br>
-
+## Sejam bem vindos
 Pessoal que veio atrás do respositorio do youtube, você encontrará os scripts usados [AQUI](https://github.com/Lucianolpsf/youtube_projects)
 
 <div style="display: inline_block"><br>
@@ -35,14 +32,4 @@ Pessoal que veio atrás do respositorio do youtube, você encontrará os scripts
 <br>
 <div align="center">
 
-<br>
-
-</div>
-
-  <div style="display: inline_block">
-  <a href="https://github.com/lucianolpsf">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucianolpsf&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/></a>      
-  <a href="https://github.com/lucianolpsf">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucianolpsf&layout=compact&size_weight=0.5&count_weight=0.5&theme=dracula"/></a>  
-</div>
 
